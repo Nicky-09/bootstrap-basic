@@ -50,3 +50,6 @@ top:0;
 left:0;
 min-height:300px;
 }
+#r1 {
+    visibility:hidden;
+}
