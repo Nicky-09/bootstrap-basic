@@ -53,3 +53,8 @@ min-height:300px;
 #r1 {
     visibility:hidden;
 }
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
